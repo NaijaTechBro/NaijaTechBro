@@ -11,18 +11,19 @@ javascript 😇
 PHP ( Laravel ) 🤪
 React.js ✅
 TypeScript ✅
+UX Design
 Blockchain Development/web3 ⏳
 
 
 You can ask me about 📠
 
-Startups
-Ideation
-CSS
-Browsers
-Technology trends
+# Startups
+# Ideation
+# Tech
+# UX Research
+# Technology trends
 
-📫 How to reach me: ... IG @naijatechbro
+📫 How to reach me: ... IG, Twitter @naijatechbro
 
 
 <!--
