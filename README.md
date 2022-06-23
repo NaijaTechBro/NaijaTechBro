@@ -12,7 +12,6 @@ PHP ( Laravel ) 🤪
 React.js ✅
 TypeScript ✅
 UX Design
-Blockchain Development/web3 ⏳
 
 
 You can ask me about 📠
