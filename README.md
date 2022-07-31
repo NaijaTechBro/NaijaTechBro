@@ -8,7 +8,7 @@ What I'm learning 📖
 Everyday I think about how it would feel like to have a diverse skillset across various stacks in tech, and so I figured i might as well just start now, Here's a list of technologies/tools/concepts I am currently working with.
 
 javascript 😇
-PHP ( Laravel ) 🤪
+Solidity 🤪
 React.js ✅
 TypeScript ✅
 UX Design
