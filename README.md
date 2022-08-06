@@ -1,10 +1,10 @@
 Building things around:
 javascript 😇
-Php (Laravel) 
+Php (Laravel) 🥰
 Solidity 🤪
 React.js ✅
 TypeScript ✅
-UX Design
+UX Design 🥳
 
 
-You can reach out to me bakisodiq@gmail.com 📠
+You can reach out to me via bakisodiq@gmail.com 📠
