@@ -1,11 +1,9 @@
 Building things around:
 javascript 😇
-node.js ):
-Php (Laravel) 🥰
-Java
+node.js 🥰
 Solidity 🤪
 React.js ✅
-TypeScript ✅
+Php ( Laravel ) ✅
 
 
 You can reach out to me via bakisodiq@gmail.com 📠
