@@ -1,4 +1,4 @@
-Building things around:
+Software Developer,Building things around:
 javascript 😇
 node.js 🥰
 Solidity 🤪
