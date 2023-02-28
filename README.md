@@ -1,4 +1,4 @@
-Software Developer, Building things around:
+Software Developer, I write:
 javascript 😇
 node.js 🥰
 Solidity 🤪
