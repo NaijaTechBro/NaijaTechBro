@@ -9,7 +9,7 @@
 - Messaging: Redis
 - DBMS: MySQL, PostgreSQL & MongoDB
 - Infrastructure: Docker
-You can reach out to me via bakisodiq@gmail.com 📠
+- You can reach out to me via bakisodiq@gmail.com 📠
 <a href="https://github.com/NaijaTechBro">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaijaTechBro&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
