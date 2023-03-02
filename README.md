@@ -5,7 +5,7 @@
 - Nothing Nevetheless.
 
 ### Technology Stacks
-- Language: JavaScript, C++ & PHP
+- Language: Solidity, JavaScript, C++ & PHP
 - Messaging: Redis
 - DBMS: MySQL, PostgreSQL & MongoDB
 - Infrastructure: Docker
