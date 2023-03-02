@@ -7,4 +7,4 @@ Infrastructure: Docker
 
 
 You can reach out to me via bakisodiq@gmail.com 📠
-https://github-readme-stats.vercel.app/api?NaijaTechBro
+![GitHub Stats](https://github-readme-stats.vercel.app/api?NaijaTechBro= &theme=radical)
