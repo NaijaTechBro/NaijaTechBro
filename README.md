@@ -1,14 +1,13 @@
 ## NaijaTechBro 𓂀
 
 ### Who?
-- The maker of things 
-- outlandish or nothing
-- Before nothing, there was me
+- Nothing Dies in His Hands. 
+- Nothing Nevetheless.
 
 ### Technology Stacks
-- Language: JavaScript, C++
+- Language: JavaScript, C++ & PHP
 - Messaging: Redis
-- DBMS: MySQL, PostgreSQL, MongoDB
+- DBMS: MySQL, PostgreSQL & MongoDB
 - Infrastructure: Docker
 You can reach out to me via bakisodiq@gmail.com 📠
 <a href="https://github.com/ichtrojan">
