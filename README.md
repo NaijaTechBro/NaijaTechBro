@@ -6,7 +6,7 @@
 
 ### Technology Stacks
 - Language: Solidity, JavaScript, C++ & PHP
-- Messaging: Redis
+- Caching: Redis
 - DBMS: MySQL, PostgreSQL & MongoDB
 - Infrastructure: Docker
 - You can reach out to me via bakisodiq@gmail.com 📠
