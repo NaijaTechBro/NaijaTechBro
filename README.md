@@ -7,7 +7,7 @@
 ### Technology Stacks
 - Language: Solidity, JavaScript, C++ & PHP
 - Caching: Redis
-- DBMS: MySQL, PostgreSQL & MongoDB
+- DBMS: Sequelize: { MySQL, PostgreSQL & MongoDB }
 - Infrastructure: Docker
 - Services: CI/CD pipeline, AWS and Rabbit MQ
 - Tools: Jira, Notion
