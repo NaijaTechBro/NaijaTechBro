@@ -5,7 +5,7 @@
 - Nothing Nevetheless.
 
 ### Technology Stacks
-- Language: Solidity, JavaScript, C++ & PHP
+- Language: Solidity, JavaScript, Typescript, C++ & PHP
 - Caching: Redis
 - DBMS: Sequelize: { MySQL, PostgreSQL & MongoDB }
 - Infrastructure: Docker
